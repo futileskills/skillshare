@@ -14,4 +14,6 @@ This Python script allows you to replay network traffic captured in a `.pcap` fi
 - Python 3.x
 - [Scapy](https://scapy.readthedocs.io/en/latest/) library for packet manipulation and sending.
 
-
+## Usage
+- Script will check for scapy and will installed if not already 
+- Script is guided/straight forward 
